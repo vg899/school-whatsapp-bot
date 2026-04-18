@@ -1,6 +1,7 @@
 {
   "name": "school-whatsapp-bot",
   "version": "1.0.0",
+  "description": "School WhatsApp Bot with Firebase",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
